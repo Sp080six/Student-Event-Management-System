@@ -6,7 +6,7 @@
 - It implements MySQL concepts of simple and nested queries, correlated queries, complex queries, trigger, procedure and function.
 
 ### 2. Project Screenshots
-#### 9.2.1 Insert details<br />
+#### 2.1 Insert details<br />
 ![Picture1](https://github.com/Sp080six/Student-Event-Management-System/assets/92115577/30c5fc3a-6ad4-4e91-89cf-6543bdc58257)
 
 #### 2.2 View Event Details<br />
